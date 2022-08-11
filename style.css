@@ -1,0 +1,12 @@
+p {
+    color: #859546;
+}
+
+.bold-red {color:rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+.big  {font-size: 2rem;
+
+}
+
